@@ -41,7 +41,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - PLSQL, T-SQL, VBA 
 ## Related Experience
 
-### Claims
+### Claims Industry
 
 `January 2013 - Current`
 __Global Project Strategy Inc__, Miami, FL
@@ -50,6 +50,8 @@ __Global Project Strategy Inc__, Miami, FL
   - Database Admin
   - Software Developer
   - IT Manager
+
+### Software and support
 
 `January 2002 - 2013`
 __PS-BEE Sistemas__, Barcelona, Venezuela
@@ -64,6 +66,8 @@ __PS-BEE Sistemas__, Barcelona, Venezuela
   - Concrete Control and Supply "PS-ADMCON”
   - Project Control and Valuation “PS -CAV”
   - Security Work Permits “PS-ATS”
+
+### Oil & Construction
 
 `January 1993 - 2002`
 __Costa Norte construcciones C.A.__ Venezuela
