@@ -1,85 +1,86 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Cristhians Ruiz's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Cristhians Ruiz
+Independent Computer Software Professional.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="crisr@byui.edu">crisr@byui.edu</a>
+| <a href="hhttps://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="www.linkedin.com/in/cristhiansruiz">LinkedIn</a>
+| <a href="https://github.com/cris-rr">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 4.0 projected GPA
 
+`2021`
+__Brigham Young University - Idaho__, Rexburg, ID
 
+- Certificate Backend developer
+
+`2020`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Certificate Computer programmer
+- Certificate Frontend developer
+
+## Skills
+
+### Programing Languages
+
+- Python, Java, C#, PHP
+- JavaScript, HTML, CSS
+- PLSQL, T-SQL, VBA 
 ## Related Experience
 
-### Internships
+### Claims
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2013 - Current`
+__Global Project Strategy Inc__, Miami, FL
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Administration an creation of solution to get maintain large amount of data from diferents sources. Cloud services management, in this roles:
+  - Database Admin
+  - Software Developer
+  - IT Manager
 
-### Data Science Lead
+`January 2002 - 2013`
+__PS-BEE Sistemas__, Barcelona, Venezuela
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Author and co-author of several software applications including used in Oil & Construction Projects, and in Concrete Plants:
+  - Suite PS-BEE
+  - Material Control System "MKSi"
+  - Labor Control System "PS-Labor”
+  - Computing and Monitoring system "PS-TO”
+  - Document Control System "PS-DOC"
+  - Communications control System "PS-Letter"
+  - Concrete Control and Supply "PS-ADMCON”
+  - Project Control and Valuation “PS -CAV”
+  - Security Work Permits “PS-ATS”
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 1993 - 2002`
+__Costa Norte construcciones C.A.__ Venezuela
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Manage IT support, create software solutions for diverse Oil & Construction projects, in several areas, as Material control, Project control and Warehouse. In this roles:
+  - IT Manager
+  - Software Developer
+  - Material Coordinator
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2010-2014`
+__Bishop__, of the Church of Jesus Christ of Latter-day Saints__, Barquisimeto, Venezuela
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2009-2010 and 2014-2015`
+__Seminary Teacher__, In Barquisimeto Venezuela, and Lima Peru.
 
 
 <!-- ### Footer
